@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "visit",
+    "visit-derive"
+]

@@ -1,0 +1,6 @@
+[package]
+name = "visit-derive"
+version = "0.1.0"
+authors = ["MSleepyPanda <m.sleepypanda@gmail.com>"]
+
+[dependencies]
